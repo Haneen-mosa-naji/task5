@@ -1,0 +1,59 @@
+*{
+    margin:0;
+}
+
+.Products{
+    margin-bottom:30px;
+}
+
+.parent{
+
+    margin:auto;
+}
+
+.child{  
+    
+    padding:5px;
+    border-color: grey;
+    border-width:2;
+    border-style:solid;
+    float:left;
+
+}
+span{
+    text-decoration:line-through;
+    color: red;
+}
+
+div .button-add{
+   
+    width:70%;
+    color:white;
+    background-color: blue;
+    border:blue ;
+
+   
+
+}
+
+.button-like{
+    
+   
+    color:blue;
+    background-color: white;
+    border:blue solid 1px;
+ 
+    
+}
+.text{
+    color: green;
+    
+    
+}
+div img{
+ 
+    width:100%;
+}
+.clearfix{
+    clear: both;
+}
